@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+section > div {
+	height: 100px;
+	width: 100px;
+}
+
+.holder {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
